@@ -16,7 +16,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 public class UpCharTest {
 
   @Test
-  public void UpCharTest() {
+  public void upCharTest() {
     String word = "CHINA";
     //String word = "leetcode";
     //String word = "Google";
