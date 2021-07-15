@@ -1,4 +1,4 @@
-package UpWord;
+package upWord;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
