@@ -1,3 +1,5 @@
+package leetcode1021;
+
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
