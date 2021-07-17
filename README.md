@@ -21,3 +21,5 @@
    * [LeetCode 模拟面试题判断单词大写用法是否正确](/src/test/java/upWord)
    
    * [LeetCode 1021题目删除最外层括号](/src/test/java/leetcode1021)
+
+   * [LeetCode 27题目移除元素](/src/test/java/leetcode27)
