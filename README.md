@@ -23,6 +23,9 @@
    * [LeetCode 1021题目删除最外层括号](/src/test/java/leetcode1021)
 
    * [LeetCode 27题目移除元素](/src/test/java/leetcode27)
+     
+   * [LeetCode 232题目移除元素](/src/test/java/leetcode232)
+
 
 
 
