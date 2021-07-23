@@ -26,5 +26,5 @@
 
    * [LeetCode 03无重复字符的最长子串](/src/test/java/leetcode03)     
 
-   * [LeetCode 232题目移除元素](/src/test/java/leetcode232)
+   * [LeetCode 232用栈实现队列](/src/test/java/leetcode232)
 
