@@ -27,4 +27,10 @@
    * [LeetCode 03无重复字符的最长子串](/src/test/java/leetcode03)     
 
    * [LeetCode 232用栈实现队列](/src/test/java/leetcode232)
+     
+   * [LeetCode 225用栈实现队列](/src/test/java/leetcode225)
+     
+   * [LeetCode 剑指 Offer 53 - I. 在排序数组中查找数字](/src/test/java/leetcode剑指Offer53)
+     
+   * [LeetCode 剑指 Offer 53 - II. 0～n-1中缺失的数字](/src/test/java/leetcode剑指Offer53p2)
 
