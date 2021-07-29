@@ -28,7 +28,7 @@
 
    * [LeetCode 232用栈实现队列](/src/test/java/leetcode232)
      
-   * [LeetCode 225用栈实现队列](/src/test/java/leetcode225)
+   * [LeetCode 225用队列实现栈](/src/test/java/leetcode225)
      
    * [LeetCode 剑指 Offer 53 - I. 在排序数组中查找数字](/src/test/java/leetcode剑指Offer53)
      
