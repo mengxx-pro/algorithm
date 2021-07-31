@@ -32,5 +32,9 @@
      
    * [LeetCode 剑指 Offer 53 - I. 在排序数组中查找数字](/src/test/java/leetcode剑指Offer53)
      
-   * [LeetCode 剑指 Offer 53 - II. 0～n-1中缺失的数字](/src/test/java/leetcode剑指Offer53p2)
+   * [LeetCode 剑指 Offer 53 - II. 0～n-1中缺失的数字](/src/test/java/leetcode剑指Offer53p2)  
+     
+   * [LeetCode 705设计哈希集合](/src/test/java/leetcode705)     
+     
+   * [LeetCode 706设计哈希映射](/src/test/java/leetcode706)
 
