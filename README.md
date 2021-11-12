@@ -18,6 +18,8 @@
    
    题目和思路都放在了md文件中，代码我都是写的测试类，直接提上来的。
    
+   -- 由于代码主要是在leetcode上直接测试AC剩余的题目不再同步到github了，直接去力扣官网上个人中心看提交记录吧
+   
    * [LeetCode 模拟面试题判断单词大写用法是否正确](/src/test/java/upWord)
    
    * [LeetCode 1021题目删除最外层括号](/src/test/java/leetcode1021)
